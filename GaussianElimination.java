@@ -1,5 +1,18 @@
 package eliminationmethod;
 
+/**
+ * GaussianElimination
+ *
+ * This class can store an AugmentedMatrix variable,
+ * perform Gaussian Elimination on that,
+ * and print the result.
+ * 
+ * @author, Haixuan Huang, huan1291@purdue.edu
+ *
+ * @version, 08/23/2018, West Lafayette, IN, Purdue University
+ *
+*/
+
 public class GaussianElimination
 {
     private AugmentedMatrix mat;

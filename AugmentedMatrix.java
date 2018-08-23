@@ -1,5 +1,17 @@
 package eliminationmethod;
 
+/**
+ * AugmentedMatrix
+ *
+ * This class can store the augmented matrix of n-equation system of n-unknowns.
+ * Information sotred includes its value, whether it's upperTriangle, and its singularity.
+ * 
+ * @author, Haixuan Huang, huan1291@purdue.edu
+ *
+ * @version, 08/23/2018, West Lafayette, IN, Purdue University
+ *
+*/
+
 public class AugmentedMatrix
 {
     private double[][] augMatrix; 

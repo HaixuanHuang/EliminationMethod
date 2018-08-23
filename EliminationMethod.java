@@ -1,6 +1,19 @@
 package eliminationmethod;
 import java.util.Scanner;
 
+/**
+ * EliminationMethod
+ *
+ * This program can read a n*n linear equation system and print its solutions.
+ * If the equation system has no solution or has infinitely many solutions,
+ * the program will print that information.
+ * 
+ * @author, Haixuan Huang, huan1291@purdue.edu
+ *
+ * @version, 08/23/2018, West Lafayette, IN, Purdue University
+ *
+*/
+
 public class EliminationMethod 
 {
     public static void main(String[] args) 
